@@ -1,1 +1,1 @@
-# imagePickerController
+# 获取系统相册以及相机拍摄的照片
